@@ -1,0 +1,1 @@
+Los híbridos puros, aquellos casos en los que el mestizaje no existe y solo existe la combinación de elementos. Presentan un porcentaje 50 - 50 de que la combinación sea viable o nazca un sujeto nulo. En estos casos no se ha observado letalidad ni estabilidad.

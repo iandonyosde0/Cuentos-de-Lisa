@@ -1,0 +1,2 @@
+La forma más básica de esquivar un ataque (además de moviéndote) es usar un hechizo contra ese hechizo, uno ofensivo (por ejemplo, bola de fuego contra bola de fuego, estaca, etc.
+Esta forma de defender quedó en desuso con la aparición de los escudos elementales que ofrecían algo más de protección a un coste reducido. Pese a esto, la defensa mágica siempre ha sido ineficiente excepto para aquellos que pueden usar barreras.

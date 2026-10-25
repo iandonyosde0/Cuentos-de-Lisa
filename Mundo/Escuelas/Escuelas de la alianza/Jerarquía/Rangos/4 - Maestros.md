@@ -1,0 +1,1 @@
+- Para poder ascender a Librero (ascenso voluntario), el maestro debe de solicitarlo al archimago, después ser validado por otros maestros y finalmente admitido por un librero.

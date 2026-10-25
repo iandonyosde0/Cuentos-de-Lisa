@@ -1,0 +1,3 @@
+Un hechizo que si bien no es considerado básico tampoco es avanzado.
+
+Consiste en darle forma al fuego para que se parezca a una bola. La forma más sencilla de lograrlo es usar ambas manos para describir movimientos esféricos mientras se expulsa maná. Aquellos con algo más de practica usan una mano donde expulsan el maná y otra con la que realizan los movimientos, es decir, la bola se forma en la palma de la otra mano. En el caso de algunos magos como Casius (cuando son muy diestros) no necesitas darle forma, solo usan una mano.

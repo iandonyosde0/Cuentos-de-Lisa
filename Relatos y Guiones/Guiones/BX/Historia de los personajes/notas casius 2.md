@@ -1,0 +1,9 @@
+Considerado un prodigio, aunque él nunca se sintió como tal. Siempre miraba a los demás viendo sus virtudes y menos preciando lo que él era capaz de hacer.
+Entrenó y estudió duro para destacar en todo lo que pudiese. 
+Al principio escuchaba mucho a sus maestros y les obedecía en todo, aprovechando su gran altura para crear grandes técnicas de fuego, pero poco a poco fue desarrollando su propio criterio y teorías. Su primer gran avance fue la propuesta de la estabilidad y consistencia de los hechizos. Una premisa sencilla que venía a decir que un hechizo básico como una llamarada o un una bola de fuego, bien formado y practicada era mucho más eficaz que un hechizo complejo de fuego. Levantó muchos cejas y fue rechazado de primeras, aunque pudo probar su teoría en los festivales de las escuelas donde se competía. Casius ganó usando un único hechizo, la bola de fuego. Su hechizo lograba superar, atravesar y romper hechizos mucho más complejos e incluso lanzados por varios magos.
+
+### Notas sobre la teoría de la estabilidad y consistencia
+Casisu no es el primero en descubrirlo, ciertas razas como los elfos (no todos) ya la conocen y esto se debe principalmente a su longevidad y su experiencia, si bien no le ponen nombre lo usan de forma inconsciente. En la propia humanidad también han existido algunas personas que se han dedicado a usar un único hechizo en combate. Pese a que sí se llegó a documentar algún héroe de este estilo, acabó en el olvido en la primera edad oscura.
+La propia Lisa es un reflejo de esto, ella no nació como la gran maestra que es. Y al abrirse al mundo descubrió que su magia era muy débil, poderosa y superior dada su raza, pero no lo suficiente comparada con otras bestias que quizás sin razonar usaban este principio, motivo que la llevó a mejorar sus bases.
+*Algunos hechizos requieren realizar ciertos movimientos con el cuerpor para darles forma.*
+*Las escuelas siempre habían preferido la fuerza bruta, Casius cambió eso.*

@@ -1,0 +1,3 @@
+Rango Militar Equivalente Función en ConflictoArchimago / Librero Generales Estrategia global y mando supremo.Maestros Oficiales Superiores (Coroneles) Dirección de frentes y grandes unidades.Consagrados Comandantes / Capitanes Líderes de compañía o misiones tácticas específicas.Expertos / Precursores Fuerzas Especiales / Élite Los "terminator". Pocos, pero deciden batallas por sí solos.Vagantes Soldados Rasos (Veteranos) Infantería de choque con experiencia de campo.Licenciados / Aprendices Soldados Rasos / Reclutas
+
+[[Jerarquía de las escuelas]]

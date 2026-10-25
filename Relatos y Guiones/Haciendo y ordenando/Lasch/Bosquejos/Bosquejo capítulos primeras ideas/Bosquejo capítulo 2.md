@@ -1,0 +1,69 @@
+- Proceso detallado de como prepara y se chuta la mezcla
+- Cielo del poblado con luna llena
+- Una sombra cruza el cielo
+- El mago apoyado en un árbol mira en dirección a la casa
+- Picado, mira hacia arriba, la imagen se ha oscurecido un poco (la sombra ha pasado)
+- La sombra se posa sobre el tejado
+- La sombra hunde un poco su brazo (mano) en el techo con la cabeza y torso inclinados (va a meterse)
+- La sombra se detiene
+- La sombra alza la la vista y mira al protagonista
+- Imagen del protagonista
+- La sombra está posada sobre el tejado sin hundirse y y lanza un alarido infernal
+- El protagonista se tapa los oídos
+- El alcalde se tapa los oídos
+- El campesino del principio hecho un ovillo se tapa los oídos
+- La victima junto con su novia acurrucados y sudando se tapan los oídos con expresión de dolor.
+- La sombra se ha lanzado veloz a por el mago
+- Cara de sorpresa o de percatarse del protagonista
+- Extiende su brazo derecho en dirección al suelo
+- La palma de su brazo absorbe maná
+- Cenital, la sombra está aún más cerca y avanza rápido
+- Un chorro de agua sale de los dedos del protagonista, impacta en el suelo y abre un agujero (el chorro es continuo)
+- Contrapicado panorámica El protagonista dirige el chorro contra la sombra (que ahora está algo más cerca) abriendo el suelo con una raya. La sombra esquiva el chorro retorciendo su cuerpo como si un arco describiese
+- Protagonista primer plano rostro preocupado boca abierta y ojos como platos
+(MIERDA)
+- Plano desde la espalda contrapicado y algo alejado del protagonista y entero o general. La sombra está encima de él parece más grande que él, la palma del protagonista absorbe maná
+- Primer plano mano palma dedos extendidos
+- Primer plano mano palma sale un chorreón de agua
+- EL chorreón de agua empuja a la sombra (desde atrás de la sombra) se ve al mago con el brazo extendido escupiendo agua y la sombra empujada. cara de esfuerzo del mago boca abierta (rostro enfado). el chorreón muy grande, como una persona.
+- EL agua pierde fuerza y la sombra cae al suelo.
+- LA sombra rueda
+- Clava sus manos huesudas en el suelo (frena)
+- Mira a cámara y lanza un alarido
+- Picado El mago se tapa los oídos y baja la vista. plano entero parece como si fuese a hincar la rodilla
+- Mira a cámara con las manos alejadas de las orejas.
+- Tose, le sangra la nariz
+- Se toca la sangre, su rostro a palidecido y tiene algo de sudor
+- El suelo
+- Del suelo sale la mano de la sombra (no incluir ninguna viñeta de la sombra, representa que el protagonista no la ha visto meterse en el suelo, no es un fallo, decisión artística, por eso el protagonista baja la mirada)
+- Agarra la pierna del mago
+- LA sombra arrastra al mago a gran velocidad
+- La sombra arroja al mago 
+- El mago se estampa contra un árbol dislocándose el hombro
+- El mago en suelo, apoyado en el árbol con cara de dolor
+- Cara de alerta y miedo
+- Salta hacia un lado y la sombra se estampa contra el árbol partiendolo
+- El mago absorbe mucho maná por todas partes
+- Gira sobre si mismo, el agua se forma siguiéndole
+- Polvo donde estaba el árbol
+- EL polvo se disipa y se ve a la sombra incorporándose
+- La sombra se abalanza de nuevo
+- El mago pisa fuerte con su pierna dominante al suelo extendiendo brazo y palma con vigor. mientras una masa de agua grande rodea todo su brazo
+- Plano en esa pose vista de la criatura, una cabeza de dragón tan grande como él lo envuelve (al mago)
+- Perfil panorámica se ve al mago lanzando la técnica y como esta golpea a la criatura
+- El dragón de agua avanza arrasando mucho árboles
+- Plano general un agujero en la arbolera, muchos árboles rotos
+- Plano mago con la rodilla hincada en el suelo. Labios agrietados, tose, pálido, le tiembla el cuerpo y sangre nariz.
+(se acabó piensa, he ganado)
+- Se escucha el alarido y se tapa los oídos
+(no puede ser, piensa, es imposible, no puede sobrevivir a esa técnica ileso)
+- Algunos troncos salen despedidos y se ve a la sombra ascendiendo
+- La sombra se coloca con la luna enorme detrás y mira a cámara (frontal) panorámica
+- El mago en el suelo con la rodilla aún hincada mira a la sombra (contrapicado desde atrás, se ve la espalda del mago)
+- La sombra se aleja hacia las montañas
+- Se ven las montañas sin la sombra
+- El sol empieza a aparecer
+- El mago se aleja de la escena
+- Las piernas le tiemblan
+- Mareos y sudor
+- Cae al suelo inconsciente

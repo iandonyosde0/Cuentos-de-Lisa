@@ -1,0 +1,3 @@
+- Continúan con el estudio.
+- Se les añade clases de magia de combate básica.
+- Al finalizar los estudios son sometidos a un examen (no voluntario, no presentarse se considera desertar) que decidirá el camino a seguir. En caso de aprobar se puede ascender a licenciado o vagante, pero si se suspende obligatoriamente serás un vagante.

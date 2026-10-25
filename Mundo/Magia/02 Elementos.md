@@ -1,0 +1,3 @@
+Por lo general todo el mundo tiene un elemento afín, por ejemplo luz. Todos los elementos tienen derivados, por ejemplo -> Luz - Electricidad - Fuego y sus contrapartes: Luz - Oscuridad.
+
+Tomando de ejemplo la luz, esta estaría encima de la pirámide, por lo que el mago que posea esta magia le será más sencillo aprender sus derivados que a alguien que nació con fuero aprender a usar elementos superiores e imposible aprender a usar otros elementos al menos con su cuerpos (deidades pueden actuar aquí.)

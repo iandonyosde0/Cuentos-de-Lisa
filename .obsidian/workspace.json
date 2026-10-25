@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "3e81996e0f2943e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "40c1c13e6795a6eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff028f8841407528",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Readme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6971ac4ca08f7ce1",
+    "type": "split",
+    "children": [
+      {
+        "id": "76a323208b932a34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c821ff7f8e2a65e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "143686fbcb35a9d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "5d7e100bafc6e4a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.5
+  },
+  "right": {
+    "id": "e82dff8e4ef9aaa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "23a17e6d74b8723a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d91aeb3366346a12",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "ad7e841d575c46bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "d12e7e6dec81da04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "93660a48cf51ac6e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "afdb359ac01eb789",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "ff028f8841407528",
+  "lastOpenFiles": [
+    "Mundo/Personajes/Daniel Rodnoc.md",
+    "Mundo/Magia/Familia de magias/Manipulación/Bien escrito.md",
+    "Mundo/Magia/Familia de magias/Manipulación/Manipuladores.md",
+    "Mundo/Magia/Familia de magias/Intensificación/La Constante del Crash Calórico.md",
+    "Mundo/Magia/Familia de magias/Intensificación/Intensificación.md",
+    "Mundo/Personajes/Belinda/Belinda límites de sus magia.md",
+    "Mundo/Personajes/Terry/Terry y el circulo de odio.md",
+    "Mundo/Magia/Tratamiento del maná en el cuerpo.md",
+    "Mundo/Magia/Teoría de la estabilidad y consistencia.md",
+    "Mundo/Magia/Sin título.md",
+    "Mundo/Magia/06 Monarquía elementales.md",
+    "Mundo/Magia/05 Familias de las magias.md",
+    "Mundo/Magia/04 Combinaciones de magia.md",
+    "Mundo/Magia/03 Jerarquía de los elementos.md",
+    "Mundo/Magia/02 Elementos.md",
+    "Mundo/Magia/01 El maná.md",
+    "Mundo/Magia/Leyes principios y reglas GENERALES/Ley del Reparto Asimétrico.md",
+    "Mundo/Magia/Leyes principios y reglas GENERALES/Ley de la Oscilación Individual.md",
+    "Relatos y Guiones/Haciendo y ordenando/Terry/Antiguo/Terry 4.md",
+    "Mundo/Personajes/Casius.md",
+    "Mundo/Personajes/Belinda/Belinda Psicología.md",
+    "Mundo/Personajes/Belinda/Belinda.md",
+    "Mundo/Personajes/Belinda/Belinda Notas.md",
+    "Mundo/Facciones/Alianza Elemental.md",
+    "Mundo/Facciones/Alianza notas sobre sus guerras.md",
+    "Mundo/Cronología/Edad de las grandes bestias.md",
+    "Relatos y Guiones/Guiones/BX/Gemini_Generated_Image_kxnpz1kxnpz1kxnp.png",
+    "Relatos y Guiones/Guiones/Lasch",
+    "Mundo/Bestiario/Familias/Corruptos o BX/B5.jpg",
+    "Relatos y Guiones/Sucio/Los primeros hombres/Los primeros hombres ideas.pdf",
+    "Relatos y Guiones/Sucio/Los primeros hombres/Los primeros hombres 02.pdf",
+    "Relatos y Guiones/Sucio/Los primeros hombres/Los primeros hombres 01.pdf",
+    "Relatos Guiones/Sucio/Los primeros hombres/Los primeros hombres 02.pdf",
+    "Relatos Guiones/Sucio/Los primeros hombres/Los primeros hombres 01.pdf",
+    "Relatos Guiones/Sucio/Final Cuentos de Lisa.pdf",
+    "Relatos Guiones/Sucio/capítulo extra tras el final.pdf",
+    "Relatos Guiones/Sucio/Capítulo 0 Inicio.pdf",
+    "Relatos Guiones/Sucio/Los primeros hombres/Los primeros hombres ideas.pdf",
+    "Mundo/Escuelas/Escuelas de la alianza/Jerarquía/Esquema jerarquía de las escuelas.canvas",
+    "Mundo/Continentes/Continente Elemental/Reino de Utrah/1º Edad oscura/IMG_1378.jpeg",
+    "Mundo/Cronología/Cronología.canvas",
+    "Relatos Guiones/Haciendo y ordenando/BX/Gemini_Generated_Image_kxnpz1kxnpz1kxnp.png"
+  ]
+}

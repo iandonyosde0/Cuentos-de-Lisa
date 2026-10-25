@@ -1,0 +1,1 @@
+Estas espadas fueron fabricadas para imitar a aquellos que portaban armas de las deidades, la idea es que absorbían maná del ambiente y lo transformaban en el elemento que se quisiera según las runas que tuviese la espada.

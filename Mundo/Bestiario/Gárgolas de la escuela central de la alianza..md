@@ -1,0 +1,4 @@
+- **Función y ubicación:** Actuaban como los guardianes del puente de piedra que conecta con la escuela.
+- **Dimensiones y contextura:** Son seres de piedra de gran tamaño, tanto que no pueden atravesar la puerta de una casa sin agazaparse, aunque se aclara que son tan delgados como chimpancés.
+- **Extremidades y fuerza:** Cuentan con extremidades largas, densas y potentes que les proporcionan una agilidad y fuerza muy superior a la de cualquier primate, además de poderosas garras capaces de partir el acero como si fuese papel.
+- **Rostro y rasgos:** Tienen un rostro angelical con una sonrisa pícara y los ojos cubiertos por el pelo, junto a mentones afilados adornados con dos pequeños cuernos (parecidos a un grano) a cada lado.

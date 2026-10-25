@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"c7fa01e03cdfd8ad","type":"text","text":"Archimago","x":-118,"y":-220,"width":250,"height":60},
+		{"id":"4e0a95b95d2707be","type":"text","text":"Élites","x":-116,"y":-120,"width":250,"height":60},
+		{"id":"e57127f3cfb1374f","type":"text","text":"Expertos","x":204,"y":60,"width":250,"height":60},
+		{"id":"a798270dc8cec49e","type":"text","text":"Iniciados","x":504,"y":660,"width":250,"height":60},
+		{"id":"9a1a13dd70a53e7f","type":"text","text":"Aprendiz","x":508,"y":520,"width":250,"height":60},
+		{"id":"591ec5f788b8a7e4","type":"text","text":"Novicios","x":508,"y":800,"width":250,"height":60},
+		{"id":"fcd0a333878ef7a6","type":"text","text":"Maestros","x":508,"y":140,"width":250,"height":60},
+		{"id":"2a13dfab0860805a","type":"text","text":"Libreros\n","x":502,"y":-221,"width":250,"height":60},
+		{"id":"16a03c6605788122","type":"text","text":"Nobles","x":-106,"y":-7,"width":250,"height":60},
+		{"id":"baf79c4a0aa3cdbe","type":"text","text":"Vagantes","x":211,"y":390,"width":250,"height":60},
+		{"id":"0d9c102e1c623340","type":"text","text":"Licenciados","x":509,"y":396,"width":250,"height":60},
+		{"id":"838749d62a64ac5a","type":"text","text":"Consagrados","x":509,"y":276,"width":250,"height":60},
+		{"id":"2e24b4a6e514b1fd","type":"text","text":"Precursores","x":209,"y":276,"width":250,"height":60},
+		{"id":"722a9f82a7c39761","x":205,"y":-452,"width":250,"height":60,"type":"text","text":"A partir de [[2º Edad oscura]]"}
+	],
+	"edges":[
+		{"id":"cc482e5b473e7491","fromNode":"4e0a95b95d2707be","fromSide":"top","toNode":"c7fa01e03cdfd8ad","toSide":"bottom"},
+		{"id":"52d10b8b5e180bd7","fromNode":"2a13dfab0860805a","fromSide":"left","toNode":"c7fa01e03cdfd8ad","toSide":"right","toEnd":"none"},
+		{"id":"5cccd7d4dd487fd7","fromNode":"fcd0a333878ef7a6","fromSide":"top","toNode":"2a13dfab0860805a","toSide":"bottom"},
+		{"id":"c5b2dc010394bf1f","fromNode":"16a03c6605788122","fromSide":"top","toNode":"4e0a95b95d2707be","toSide":"bottom"},
+		{"id":"1bfd91ae0de07629","fromNode":"fcd0a333878ef7a6","fromSide":"left","toNode":"e57127f3cfb1374f","toSide":"bottom"},
+		{"id":"6fa144b951efc10d","fromNode":"591ec5f788b8a7e4","fromSide":"top","toNode":"a798270dc8cec49e","toSide":"bottom"},
+		{"id":"41af328b49f587c2","fromNode":"a798270dc8cec49e","fromSide":"top","toNode":"9a1a13dd70a53e7f","toSide":"bottom"},
+		{"id":"dd374878f1e787dc","fromNode":"9a1a13dd70a53e7f","fromSide":"left","toNode":"baf79c4a0aa3cdbe","toSide":"bottom"},
+		{"id":"a09c4b3f450b194d","fromNode":"baf79c4a0aa3cdbe","fromSide":"top","toNode":"2e24b4a6e514b1fd","toSide":"bottom"},
+		{"id":"167c6ab4ae5b08b8","fromNode":"2e24b4a6e514b1fd","fromSide":"top","toNode":"e57127f3cfb1374f","toSide":"bottom"},
+		{"id":"6164536c0e6ff61e","fromNode":"9a1a13dd70a53e7f","fromSide":"top","toNode":"0d9c102e1c623340","toSide":"bottom"},
+		{"id":"e259b5c9aaef9c91","fromNode":"0d9c102e1c623340","fromSide":"top","toNode":"838749d62a64ac5a","toSide":"bottom"},
+		{"id":"67f673e882d62a0c","fromNode":"838749d62a64ac5a","fromSide":"top","toNode":"fcd0a333878ef7a6","toSide":"top"},
+		{"id":"52907234f1ebe69b","fromNode":"2a13dfab0860805a","fromSide":"top","toNode":"722a9f82a7c39761","toSide":"bottom"},
+		{"id":"aebc5280c0e21ecc","fromNode":"c7fa01e03cdfd8ad","fromSide":"top","toNode":"722a9f82a7c39761","toSide":"bottom"}
+	]
+}

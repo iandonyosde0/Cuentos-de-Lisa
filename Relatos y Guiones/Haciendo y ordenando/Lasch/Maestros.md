@@ -1,0 +1,4 @@
+la crueldad de los maestros se explica por dos motivos, 1 simple malicia humana, que está ahí y dos, la guerra, un momento en el que aparecieron grandes magos, por lo que todos parecen pequeños, vagos e incompetentes, sería una generación hipócrita puesto que si han sobrevivido poco han peleado o muy fuertes eran (no es el caso).
+
+*Durante la primera edad oscura aparecieron muchos hechizos*
+**El "Sesgo del Veterano":** Al haber vivido (o visto de lejos) la brutalidad de la guerra, desprecian el sufrimiento individual de los alumnos. Para ellos, que un alumno sea humillado o muera por adicción es "lo normal" porque en la guerra "era normal que murieran vagantes"

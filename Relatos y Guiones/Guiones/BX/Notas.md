@@ -1,0 +1,1 @@
+Los acontecimientos acaecidos en este pasaje ocurren tras la segunda edad oscura.

@@ -1,0 +1,1 @@
+aquellos que han realizado alguna hazaña digna de ascenso aportando material importante o único a los maestros o que hayan descubierto algo por su cuenta. *Los precursores continuan llevando el sello.*

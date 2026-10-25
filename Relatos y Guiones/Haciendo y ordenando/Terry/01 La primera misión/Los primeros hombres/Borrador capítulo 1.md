@@ -1,0 +1,12 @@
+Es difícil o imposible centrarse en un único evento, por ello se relatan algunas historias.
+
+[[Marcus]]
+
+Antes de que el humano gobernase la tierra, existió un periodo en el que se vio obligado a esconderse cual rata bajo la superficie. Esto ocurrió durante la Edad de las Grandes Bestias. Salir a la superficie suponía la muerte y quedarse bajo ella al menos alargaba la vida. El ser humano era cazado o incluso tratado como ganado por unos seres con los que no podía competir, ni en fuerza ni en tamaño. Las pieles de aquellas bestias eran tan duras como el acero.
+Nuestro héroe vivía como tantos otros, oculto y famélico. Quizás fue la desesperación, quizás el hambre lo enloqueció. Un día tomó la decisión de salir de su escondrijo y a diferencia de muchos otro no pereció. 
+Cuando regresó con su tribu había cambiado. No era posible reconocerlo. Ya no era un saco de huesos, sino un hombre grande, fuerte y tan musculado que parecía un dios. Su pueblo tardó en reconocerlo y cuando lo hicieron, todos y cada uno de ellos se acercaron para tocarlo. Palparon todo su cuerpo *Antes de transformarse Marcus debe ser dibujado con mucha suciedad y  después pulcro, sin una mota de polvo* exhalando gemidos de asombro.
+Marcus con unas pinturas hechas con bases vegetales representó en las paredes de la cueva lo que había pasado. Se dibujó así mismo como era antes, de espaldas, observando hacia arriba, después unos árboles tan grandes como montañas y una figura que incluso sobre salía de ellos, (¿una figura oscura y con forma humana.?). Figura representada con colores vibrantes, con la palma de la mano extendida hacia Marcus.
+En una segunda imagen Marcus y la criatura miraban al frente con los brazos en cruz, unos haces de luz envolvían a Marcus provenientes de la criatura. Todos miraban atolondrados las representaciones.
+Trató de sacarlos de la cueva, pero aunque podía forzarlos a ahcerlo quería que lo hiciesen por su propio pie. Aquellos humanos no podían hacerlo. Cada vez que se acercaban a la salida guiados por Marcus comenzaban a balbucear, gimotear y sudar.
+Tomó la decisión de volver a salir solo, pero esta vez regresó con una pierna muy parecida a la de un humano, pero tan grande como un árbol viejo. La llevaba arrastrando como quien agarra una rama para hacer una línea al caminar. 
+En las entrañas de la cueva donde había gran amplitud y ante la mirada de sus semejantes, con una única mano levantó aquel pedazo de carne sobre su cabeza para arrojarlo contra la pared mas lejana.

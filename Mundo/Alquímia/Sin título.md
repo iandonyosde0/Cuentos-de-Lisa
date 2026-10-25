@@ -1,0 +1,1 @@
+La alquimia funciona mediante la combinación o activación de determinadas plantas u objetos, para activar sus efecto es necesario usar maná puro en la mayoría de las oscasiones.

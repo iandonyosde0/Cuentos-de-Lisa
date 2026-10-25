@@ -1,0 +1,4 @@
+Antes de la primera edad oscura los elementales sufrieron una invasión de los intensificadores, pueblo hasta entonces desconocido (procedentes de otro continente). Debido a los problemas internos de continente y al bajo interés por la península, su conquista fue rápida y sencilla, sin embargo, no lograron pasar de ahí. Cuando trataron de continuar hacia el interior del continente encontraron una fuerte contestación a los ataques, aunque lograron avanzar arrasando algunos poblados, fueron rápidamente repelidos. Este intento de conquista dio lugar a la primera  alianza elemental. Los dos reinos más próximos se unieron en una tregua, declarando el paso al continente como zona neutral.
+En la península se produjo una mezcla de culturas y terminaron aprendiendo a convivir tras generaciones.
+Este reino recibe el nombre de Utrah porque así se llama quien lideró la conquista.
+

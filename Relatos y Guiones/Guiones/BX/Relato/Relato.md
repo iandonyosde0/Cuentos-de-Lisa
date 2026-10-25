@@ -1,0 +1,1 @@
+En un oscuro túnel en las entrañas de una montaña, iluminada por la luz de una antorcha, se hallaba un puerta del tamaño de dos personas. Sus aleaciones de color oro reflejaban morado y azul. Sobre ella en el centro, un grabado de un corazón humano cuya anatomía es perfecta, envuelto en espinas.

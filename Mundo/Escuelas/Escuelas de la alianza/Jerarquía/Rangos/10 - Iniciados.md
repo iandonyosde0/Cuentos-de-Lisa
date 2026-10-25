@@ -1,0 +1,2 @@
+- Continuan estudiando, pero ahora además de los estudios teóricos tienen los prácticos, donde aprenden hechizos básicos en función de su afinidad.
+- En este punto se divide a los alumnos por su afinidad y es posible mandar a alumnos a otros centros si no hay maestros que puedan cubrir su afinidad.

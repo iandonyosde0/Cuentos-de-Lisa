@@ -1,0 +1,1 @@
+Se establece que los elementos superiores actúan con dominantes en la reproducción relegando a los derivados como recesivos. Es decir, elementos como luz y oscuridad serían dominantes si se mezclan con fuego, electricidad o sombras, pero si la mezcla es electricidad y fuego, el primero también actuará como dominante.

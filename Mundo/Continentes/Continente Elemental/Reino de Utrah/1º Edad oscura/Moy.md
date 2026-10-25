@@ -1,0 +1,1 @@
+Situado hacia el noroeste de [[Utrah]], atravesando el bosque y rodeado por una cordillera que hace muy complicado su acceso. Es un pequeño pueblo costero tranquilo y ajeno a lo que ocurre en el reino.

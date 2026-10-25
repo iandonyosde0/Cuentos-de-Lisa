@@ -1,0 +1,3 @@
+La familia de cognición inventó un método para poder atacar a distancia, similar a una cerbatana con veneno, pero cargada con una pequeña dosis de maná tratado. Requería una gran habilidad para lanzar un hechizo decente y servía sobre todo para provocar un entorpecimiento momentáneo al enemigo. Era poco usado debido a que los de esta familia acostumbraban a luchar con armas convencionales.
+
+La familia de la cognición se vale de la alquimia en gran medida.

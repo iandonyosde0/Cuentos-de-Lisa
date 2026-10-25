@@ -1,0 +1,18 @@
+El maná del ambiente es absorbido por los poros de la piel a voluntad del mago; este inunda el cuerpo y su conversión puede ser variada. El mejor ejemplo de esto es la propia Belinda: su magia da unos resultados específicos dependiendo de sus emociones. Si siente miedo o que necesita protección, los resultados buscarán llenar ese hueco, transformando, por ejemplo, un árbol en un ser viviente capaz de defenderla.
+
+Es posible dominar la expulsión del maná a través del autocontrol. Lo mismo le pasa a otras familias: si estás en peligro, en primera instancia tu magia saldrá potenciada por el instinto de supervivencia, aunque esto pueda herirte a ti mismo. Un ejemplo es un elemental de fuego que, ante la muerte inminente, lanza una poderosa llamarada quemándose la palma o el brazo completo; perderá la capacidad de usar magia con esa parte, pero salvará la vida.
+
+Los efectos de los órganos sobre el maná no tienen por qué ser negativos. Si bien el control de las emociones es importante, no se puede impedir que el corazón se acelere en combate; esto además permite lanzar hechizos más rápido. Por ejemplo, los intensificadores cambian de vía de forma acelerada; al final, son solo mecanismos del cuerpo. Los elementos que afectan al resultado son: cerebro, corazón y pulmones principalmente.
+
+*Los magos pueden absorber maná por cualquier parte del cuerpo, pero la zona por la que expulsan el maná es donde sufren efectos negativos.*
+
+Casos excepcionales y anomalías:
+Los siguientes casos son excepciones a la norma y presentan situaciones extrañas respecto a la absorción del maná:
+
+• Envenenamiento: Se da cuando el mago o persona no es capaz de expulsarlo a voluntad. Incluso se han observado casos en los que una persona absorbe maná de forma inconsciente. El cuerpo humano tiene un límite de maná para absorber que depende principalmente de la altura y volumen del ser. Si el mago no logra sacar el maná absorbido, este termina provocando la muerte, ya que genera una enfermedad parecida a una gripe; es una presión constante ejercida sobre los órganos dependientes hasta que estos no pueden más y simplemente estallan.
+
+• Afinidad Nula: Es quizás el caso más extraño. Se ha llegado a encontrar a alguna persona que, pese a ser capaz de absorber y expulsar maná, no tiene ninguna afinidad. Como resultado, la persona expulsa el maná de vuelta sin transformar (no puede crear hechizos) y, por tanto, no es un nulo. Un individuo examinado, proveniente de la Alianza de Elementales de Fuego, se reprodujo con una mujer de oscuridad; su descendencia fue viable y nació una niña con afinidad a la oscuridad, algo que debería de ser imposible para un elemental de fuego.
+
+• Letargo: Algunas personas nacen con los poros cerrados y estos solo tienen una forma de abrirse: pese a estar en contacto continuo con el maná, el individuo necesita recibir un hechizo para que estos se abran. Es un proceso descrito como muy doloroso; los usuarios comunicaron que fue como si cientos o miles de heridas se abriesen de golpe por todo el cuerpo, similar a pinchazos. Esto resulta en desmayos en la mayoría de los casos debido al dolor. Al poner en práctica la absorción, las primeras semanas suelen ser molestas, sintiendo irritación, hormigueos y malestar general. Casos de letargo pueden encontrarse en zonas donde el volumen de maná es muy bajo o nulo.
+
+*La evolución ha hecho que la nariz de las criaturas filtre el maná; esto evita que salgan hechizos al respirar.*

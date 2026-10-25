@@ -1,0 +1,1 @@
+La zona describe un circunferencia de montañas, un embalse en las faldas de dichas montañas (dentro de la circunferencia) y en el medio lo que parece ser un hoyo por donde cae el agua y llega al resto de la península como agua subterránea. Este agujero ha sido mantenido por una especie que ha evolucionado en paralelo al resto.
